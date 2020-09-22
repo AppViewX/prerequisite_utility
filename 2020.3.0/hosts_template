@@ -1,0 +1,23 @@
+[NODE_DETAILS]
+
+# --------------------------------------------------
+# The node details must be the IP addresses of the nodes where the configurations are to done
+# --------------------------------------------------
+
+NODES = 192.168.1.1,192.168.1.2,192.168.1.3
+
+# --------------------------------------------------
+# The username provided must be a sudo privileged user
+# --------------------------------------------------
+
+USERS = username,username,username
+
+MASTER_NODES = 192.168.1.1
+
+WORKER_NODES = 192.168.1.2,192.168.1.3
+
+LEGACY_PRIMARY_DB_NODE=192.168.1.1
+LEGACY_PRIMARY_DB_DATA_PATH=/home/user/installed_dir/db/mongodb/data/
+NEW_INSTALLATION_PATH=/home/user/new_installation_path
+
+
