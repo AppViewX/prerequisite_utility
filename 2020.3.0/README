@@ -1,0 +1,11 @@
+Release date: 02/Jul/2021
+
+Change logs:
+
+1. Latency check between nodes (<=100ms)
+2. Added port 9100 for NOC Dashboard
+3. Validation of loopback ip and localhost declaration in /etc/hosts file
+4. Validation of Name Server in /etc/resolv.conf
+5. firewalld validation for stop and disabled
+6. Warning if there is any domain search found in /etc/resolv.conf
+7. Warning if there is a multiple network interface
