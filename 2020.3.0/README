@@ -1,6 +1,18 @@
+Release date: 02/Sep/2021
+md5sum: 9d6f846be46e399134322a73d39b94c4
+version: 20.3.0.6
+
+Change logs:
+1. IPIP (proto4) validation among all nodes
+2. Installer path read/write issue is fixed
+3. TMP dir permission check for the application user
+4. TMP dir disk space check is restricted only for worker nodes and will not be validated for master nodes.
+5. OS version is validated for 7.9 as it is a prerequisite for fp6.
+
+
 Release date: 09/Jul/2021
 md5sum: a76b5d4936a7be18053c33d661a261c9
-
+version: 20.3.0.5
 Change logs:
 
 1. Latency check between nodes (<=100ms)
