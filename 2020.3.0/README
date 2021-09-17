@@ -1,3 +1,13 @@
+Release date: 17/Sep/2021
+md5sum: f3fafedf1fc38a01ecb9d64bf76b30fd
+version: 20.3.0.7
+
+Change logs:
+1. Docker rpms are removed
+2. Bug fix in nameserver validation
+3. Bug fix in installation path clean up.
+
+
 Release date: 02/Sep/2021
 md5sum: 9d6f846be46e399134322a73d39b94c4
 version: 20.3.0.6
