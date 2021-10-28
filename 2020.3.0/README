@@ -1,9 +1,9 @@
 Release date: 28/Oct/2021
-md5sum: 
+md5sum: e8a3b54bec7f70be261a7d2ff622d4d2
 version: 20.3.0.8
 
 Change logs:
-1. Special characters are supported except quotes (single and double)
+1. Special characters are supported except quotes (single and double) and backslash(\)
 
 
 Release date: 17/Sep/2021
