@@ -1,3 +1,11 @@
+Release date: 28/Oct/2021
+md5sum: 
+version: 20.3.0.8
+
+Change logs:
+1. Special characters are supported except quotes (single and double)
+
+
 Release date: 17/Sep/2021
 md5sum: f3fafedf1fc38a01ecb9d64bf76b30fd
 version: 20.3.0.7
