@@ -1,3 +1,12 @@
+Release date: 09/Dec/2021
+md5sum:33d50d979fa14685280ef753e874e4ba
+version: 20.3.0.9
+
+Change logs:
+1. Added tcpdump rpm validation
+2. Disk space validation added for /var
+
+
 Release date: 28/Oct/2021
 md5sum: 5166fd35cc3e61a3ff1928427c5eca9c
 version: 20.3.0.8
