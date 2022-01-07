@@ -3,9 +3,8 @@ md5sum:d2fef532ff9c822e4bceacd9c54e8ea7
 version: 20.3.0.10
 
 Change logs:
-1. Added tcpdump rpm validation
-2. Disk space validation added for /var
-
+1. Bug fixes on IPinIP validation
+2. Bug fixes on port validation
 
 
 Release date: 09/Dec/2021
