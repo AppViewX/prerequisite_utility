@@ -4,6 +4,7 @@ version: 20.3.0.10
 
 Change logs:
 1. Passwordless authentication support
+2. NTP server sync validation
 
 Release date: 07/Jan/2022
 md5sum:f8e5741ebf482c13dbab9e43b64d95fe
