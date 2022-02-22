@@ -1,6 +1,6 @@
 Release date: 22/Feb/2022
 md5sum:6a9c73ea46734f18089b81f09b371f28
-version: 20.3.0.10
+version: 20.3.0.11
 
 Change logs:
 1. Passwordless authentication support
