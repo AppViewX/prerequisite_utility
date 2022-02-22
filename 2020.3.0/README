@@ -1,11 +1,3 @@
-Release date: 22/Feb/2022
-md5sum:6a9c73ea46734f18089b81f09b371f28
-version: 20.3.0.11
-
-Change logs:
-1. Passwordless authentication support
-2. NTP server sync validation
-
 Release date: 07/Jan/2022
 md5sum:f8e5741ebf482c13dbab9e43b64d95fe
 version: 20.3.0.10
