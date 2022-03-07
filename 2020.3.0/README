@@ -1,3 +1,15 @@
+Release date: 07/Mar/2022
+md5sum:a7f35c0ed664dc7f6184f92e5665089a
+version: 20.3.0.10
+
+Change logs:
+1. NTP/chrony validation
+2. Password less authentication support.
+3. crontab access validation for the user
+4. Noexec flag validation for installation directory
+5. proxy validation
+
+
 Release date: 07/Jan/2022
 md5sum:f8e5741ebf482c13dbab9e43b64d95fe
 version: 20.3.0.10
