@@ -1,3 +1,28 @@
+Release date: 09/Nov/2022
+Centos/RHEL/Ubuntu :prerequisite_utility.tar.gz md5sum:185e66f9850535f3de5f8848514614f4 AppViewX Version: 2020.3.X/2022.1.X
+
+version: 20.3.0.12
+
+Change logs:
+1:  All in one prerequisite support - CentOS, RHEL and Ubuntu
+2:  Prerequisite to be triggered using without root user- With normal user
+2:  Filesystem type validation - xfs and ext4
+3:  Runc version validation
+4:  Selinux validation
+5:  ulimit validation
+7:  Instead of /var space, /var/log space is being checked now
+8:  Domain search validation is removed
+9:  Puppet validation
+10: IP tables validation
+11: IPforwarding validation
+12: Bridging validation
+13: Cross-validating SSH communication among nodes
+14: 1337 GID validation - No user should have GID as 1337
+15: GID and UID validation - It should be same for all users
+
+
+
+
 Release date: 07/Mar/2022
 Centos/RHEL :prerequisite_utility_centos_rhel.tar.gz md5sum:d58038f35a87cd85708841120ef73de1 AppViewX Version: 2020.3.0
 Ubuntu: prerequisite_utility_ubuntu.tar.gz md5sum: 66e5f30ba888219c675d991a9528aab8  AppViewX Version: 2021.1.0
