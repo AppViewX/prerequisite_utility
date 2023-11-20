@@ -1,3 +1,15 @@
+Release date: 20/Nov/2023
+Centos/RHEL/Ubuntu :prerequisite_utility.tar.gz md5sum:c091cd9b10d71d5ac8b762be82198c89 AppViewX Version: 2020.3.X/2022.1.X/2023.1.X
+
+version: 1.0
+
+Change logs:
+1:  All-in-one prerequisite support - CentOS, RHEL, and Ubuntu
+2:  Version change to better align with multiple releases
+3.  Implemented an auto-configuration feature in the prerequisite along with Validation.
+4.  New Reporting feature.
+
+
 Release date: 09/Nov/2022
 Centos/RHEL/Ubuntu :prerequisite_utility.tar.gz md5sum:185e66f9850535f3de5f8848514614f4 AppViewX Version: 2020.3.X/2022.1.X
 
