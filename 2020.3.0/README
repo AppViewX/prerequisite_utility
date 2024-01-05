@@ -1,3 +1,15 @@
+Release date: 05/Jan/2024
+Suported OS : Centos,RHEL,Ubuntu
+md5sum: 99e4d230604ea5ab1fb7a7a684ed2242
+AppViewX Version: 2020.3.X/2022.1.X/2023.1.X
+
+version: 1.0.2
+
+Change logs:
+1: Updated the /tmp size validation
+
+
+
 Release date: 20/Nov/2023
 Centos/RHEL/Ubuntu :prerequisite_utility.tar.gz md5sum:c091cd9b10d71d5ac8b762be82198c89 AppViewX Version: 2020.3.X/2022.1.X/2023.1.X
 
